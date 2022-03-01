@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Marlin-bugfix-2.0.x",
+			"path": "../../BTT SKR V1.3/firmware/Marlin-bugfix-2.0.x"
+		}
+	],
+	"settings": {}
+}
